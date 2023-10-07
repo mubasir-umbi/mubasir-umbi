@@ -3,9 +3,6 @@
 <h3 align="center">"MERN Stack Enthusiast and Self-Learner"</h3>
 <img align="right" alt="image" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/02/Career-Councelling.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasir-umbi&label=Profile%20views&color=0e75b6&style=flat" alt="mubasir-umbi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubasir-umbi" alt="mubasir-umbi" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
