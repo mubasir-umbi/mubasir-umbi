@@ -14,11 +14,9 @@
 
 - 💬 Ask me about **Javascript React node js**
 
-- 📫 How to reach me **mubasirumbi@gmail.com**
+- 📫 How to reach me **mubasirumbi@gmail.com** **+91 7736612328**
 
-- 📫 How to reach me **+91 7736612328**
 
-- ⚡ Fun fact **I think am funny**
 
 <br/>
 <br/>
