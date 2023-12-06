@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Javascript React node js**
 
@@ -23,9 +23,13 @@
 <br/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left"> -->
 <a href="https://linkedin.com/in/mubasir-vc-983318231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubasir-vc-983318231/" height="30" width="40" /></a>
-</p>
+<a href="https://leetcode.com/mubasirvc/" target="blank">
+  <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo" alt="LeetCode Icon"/>
+</a>
+
+
 <br/>
 
 
